@@ -1,2 +1,11 @@
 # Inventory-Database-SQL
-An SQL-based inventory management database with tables, views, functions, triggers, and stored procedures
+
+This project is an SQL-based inventory management system. It includes:
+
+- SQL DDL for table creation
+- Data insertion
+- Views and triggers
+- Stored procedures and functions
+- Sample queries and reports
+
+Developed as part of SQL learning and practice.
